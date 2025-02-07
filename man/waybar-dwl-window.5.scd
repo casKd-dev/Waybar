@@ -105,8 +105,6 @@ Addressed by *dwl/window*
 
 *{app_id}*: The app_id of the focused window.
 
-*{layout}*: The layout of the focused window.
-
 # REWRITE RULES
 
 *rewrite* is an object where keys are regular expressions and values are
